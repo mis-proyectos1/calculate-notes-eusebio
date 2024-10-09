@@ -7,3 +7,4 @@ si la nota definitiva es mayor a 4.5 debe informar al usuario que su nota es sob
 Tarea2:
 
 Al dar click en el botón predecir, el sistema deberá agregar de manera automática la nota mínima en el input de la nota3(Dícese de nota mínima la nota que debe sacar para que su definitiva quede en 3.5)
+
